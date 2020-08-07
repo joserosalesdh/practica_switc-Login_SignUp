@@ -1,0 +1,1 @@
+Practica en la que quiero tener el formulario de registro y el form de login en una sola vista y que cambie por medio de un voto un aopcion de otra
